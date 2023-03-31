@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-bookinother
 Version:	54015
-Release:	1
+Release:	2
 Summary:	Manage book edited in other entry type
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-bookinother
