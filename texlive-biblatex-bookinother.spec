@@ -3,7 +3,7 @@ Version:	54015
 Release:	2
 Summary:	Manage book edited in other entry type
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-bookinother
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-bookinother
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-bookinother.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-bookinother.doc.r%{version}.tar.xz
